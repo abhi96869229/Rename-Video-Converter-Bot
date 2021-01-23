@@ -9,8 +9,8 @@
     "Rename"
   ],
   "success_url": "https://t.me/Godofwar033",
-  "website": "https://github.com/kirodewal",
-  "repository": "https://github.com/kirodewal/Rename-Video-Converter-Bot",
+  "website": "https://github.com/abhi96869229",
+  "repository": "https://github.com/abhi96869229/Rename-Video-Converter-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
