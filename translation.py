@@ -1,21 +1,21 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!💯</b> \n
 
-<b>Bot Maintained By: @Kirodewal</b> \n
+<b>Bot Maintained By: @Godofwar033</b> \n
 <b>Do /help for more...</b> \n
 """
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"
-    BANNED_USER_TEXT = "Sorry!! But My Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @Kirodewal For more Details.. " 
+    BANNED_USER_TEXT = "Sorry!! But My Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @Godofwar033 For more Details.. " 
     ABS_TEXT = "What Are You Trying To Do,Mate?"
-    UPGRADE_TEXT = "CONTACT @Kirodewal "
+    UPGRADE_TEXT = "CONTACT @Godofwar033 "
     DOWNLOAD_START = "<b>Downloading To My server !! pls Wait</b>"
     UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TG</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @HindiXstream  ❤️**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @MovEISAddA786  ❤️**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT @Kirodewal "
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @Kirodewal "
+    NOT_AUTH_USER_TEXT = "CONTACT @Godofwar033 "
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @Godofwar033 "
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /deletethumbnail ❤"
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
@@ -33,5 +33,5 @@ class Translation(object):
 1.🔹 <b>Send me any Telegram File.</b> \n
 2.🔹 <b>Reply to that message with /rename New file name.extnsion</b> \n
 3.🔹 <b> Send A Photo to make it as permanent Thumbnail</b> \n
-4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With Love By: @Kirodewal</b>"""
+4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With Love By: @Godofwar033</b>"""
 
